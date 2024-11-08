@@ -4,7 +4,7 @@ import Ceklis from "../../../components/Ceklis"
 export default function KebijakanMutuPage() {
     return (
         <>
-            <div className="text-center text-4xl m-10 font-bold ">Kebijakan Mutu</div>
+            <div className="text-center text-4xl m-10 font-bold ">Kebijakan Mutu TERBARU</div>
             <div className="justify-center m-4 gap-4">
                 <div className="m-auto block max-w-4xl p-4 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 mb-2 text-lg text-gray-900 dark:text-white">Balai Besar Industri Hasil Perkebunan berpedoman pada peraturan perundang-undangan yang berlaku serta peningkatan mutu pelayanan secara terus menerus, siap melayani masyarakat dengan cara:</div>
                 <ul className="m-auto block max-w-4xl p-4 text-left space-y-1 text-gray-500 list-inside dark:text-gray-400">
